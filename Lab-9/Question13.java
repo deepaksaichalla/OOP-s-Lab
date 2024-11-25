@@ -22,7 +22,7 @@ public class Question13{
     }
 
     public static void main(String[] args) {
-        int[] inputArray = {10, 20, 30, 40, 50};
+        int[] inputArray = {14, 24, 34, 46, 58};
         int[] outputArray = processArray(inputArray);
 
         System.out.print("Input Array: ");
